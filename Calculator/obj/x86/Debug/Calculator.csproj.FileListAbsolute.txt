@@ -1,0 +1,23 @@
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\dwishika\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
